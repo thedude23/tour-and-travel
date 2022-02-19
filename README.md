@@ -1,2 +1,2 @@
-# Tour-and-Travel
+# tour-and-travel
 Design, made in Figma
